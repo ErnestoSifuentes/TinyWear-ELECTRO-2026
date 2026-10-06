@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si se utiliza el código o el material didáctico, se solicita citar este repositorio."
+authors:
+  - family-names: "Sifuentes de la Hoya"
+    given-names: "Ernesto"
+    affiliation: "Universidad Autónoma de Ciudad Juárez"
+title: "TinyWear ELECTRO 2026: Diseño de sistemas TinyML para instrumentación electrónica inteligente"
+version: "0.1.0"
+date-released: "2026-10-05"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - TinyML
+  - ESP32-S3
+  - MPU6050
+  - instrumentación electrónica
+  - reconocimiento de actividad humana
