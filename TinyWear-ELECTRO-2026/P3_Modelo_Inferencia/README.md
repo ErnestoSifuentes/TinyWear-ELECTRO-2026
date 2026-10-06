@@ -2,10 +2,10 @@
 
 Se carga el dataset verificado en Edge Impulse, se configura el impulso, se entrena y evalúa el modelo y se exporta la biblioteca Arduino. Después se integra la inferencia en el ESP32-S3 y se validan las predicciones mediante las interfaces Python.
 
-| Carpeta | Contenido por incorporar |
+| Carpeta | Material disponible |
 |---|---|
 | [Arduino](Arduino/README.md) | Sketch de inferencia con sus archivos `.cpp` y `.h`. |
-| [Python](Python/README.md) | Interfaces UDP, registro de pruebas y versión animada. |
+| [Python](Python/README.md) | Interfaz Wi-Fi, módulo de apoyo y lanzador de Windows. |
 | [Modelo](Modelo/README.md) | Configuración, métricas y referencia de la biblioteca exportada. |
 
 ## Procedimiento general

@@ -16,7 +16,7 @@ Se utiliza la [guía editable en Word](Guia_Instalacion_Programas_ELECTRO_2026.d
 | Google Colab | Recurso complementario. |
 | Excel o LibreOffice Calc | Revisión de archivos CSV. |
 
-La versión 2.0.17 se refiere al soporte de la placa ESP32, con el que se verificó el programa de inferencia del taller. Los programas se incorporan posteriormente a sus carpetas.
+La versión 2.0.17 se refiere al soporte de la placa ESP32, con el que se verificó el programa de inferencia del taller. Los programas disponibles se consultan en [P1](../P1_Adquisicion/README.md), [P2](../P2_Dataset/README.md) y [P3](../P3_Modelo_Inferencia/README.md).
 
 ## Comprobación
 

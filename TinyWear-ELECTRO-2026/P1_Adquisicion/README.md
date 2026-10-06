@@ -2,7 +2,7 @@
 
 Se conecta el MPU6050 al ESP32-S3, se observan las señales y se comprueba su recepción en la computadora. Se utiliza el mismo montaje que se conservará durante la captura del dataset y la validación.
 
-| Carpeta | Archivos por incorporar |
+| Carpeta | Material disponible |
 |---|---|
 | [Arduino](Arduino/README.md) | Sketches de lectura, visualización y envío Wi-Fi del taller. |
 | [Python](Python/README.md) | Herramientas de recepción o prueba de comunicación UDP. |

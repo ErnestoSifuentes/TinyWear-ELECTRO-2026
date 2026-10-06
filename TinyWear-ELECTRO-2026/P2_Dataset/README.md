@@ -2,7 +2,7 @@
 
 Se capturan y etiquetan las señales de reposo/de pie, caminar y sentarse-levantarse. Se revisan los archivos y se organizan para utilizarlos posteriormente en Edge Impulse.
 
-| Carpeta | Contenido por incorporar |
+| Carpeta | Material disponible |
 |---|---|
 | [Python](Python/README.md) | Capturador del dataset y sus módulos. |
 | [EjemplosCSV](EjemplosCSV/README.md) | Archivos de ejemplo revisados. |

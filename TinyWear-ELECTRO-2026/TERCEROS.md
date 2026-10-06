@@ -1,6 +1,6 @@
 # Componentes de terceros
 
-La estructura inicial incluye referencias a herramientas externas y los textos de las licencias. Los códigos, bibliotecas del modelo y materiales adicionales se incorporan al completar el curso.
+El repositorio incluye referencias a herramientas externas, sus textos de licencia y la biblioteca exportada de Edge Impulse. Los componentes externos conservan sus propios avisos.
 
 ## Herramientas externas
 

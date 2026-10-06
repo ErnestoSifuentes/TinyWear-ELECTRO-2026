@@ -15,4 +15,4 @@ Se mantiene una redacción clara e impersonal, con pasos breves y resultados esp
 
 Las aportaciones originales se integran bajo las licencias correspondientes al tipo de archivo, según [LICENCIAS.md](LICENCIAS.md). Los materiales externos conservan sus propios avisos.
 
-Las dudas de estudiantes se registran con la plantilla de consulta; los errores de programas utilizan la plantilla de error. Se incluye el mensaje completo y el procedimiento que permite reproducirlo.
+Las dudas y los errores se registran en Issues, indicando la práctica y el programa afectados. Se incluye el mensaje completo y el procedimiento que permite reproducirlo.

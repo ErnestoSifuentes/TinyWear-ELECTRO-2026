@@ -1,5 +1,13 @@
 # Historial de cambios
 
+## Corrección de enlaces — 2026-10-05
+
+- Se incorpora la navegación del taller en el README de la raíz.
+- Se completan los índices de programas, guías, presentaciones y ejemplos CSV.
+- Se corrigen las referencias a páginas que no se habían subido.
+- Se enlaza la biblioteca cuyo nombre contiene el carácter #.
+- Se incorpora la URL publicada al archivo de citación.
+
 ## 0.1.0 — 2026-10-05
 
 - Se organiza la estructura del repositorio por preparación, P1, P2 y P3.

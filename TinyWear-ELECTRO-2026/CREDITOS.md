@@ -10,7 +10,7 @@
 
 **Evento:** ELECTRO 2026.
 
-Para citar el material se utiliza el archivo [CITATION.cff](CITATION.cff). Al completar el repositorio se agrega allí su URL definitiva y se actualiza la versión cuando se publique una nueva entrega.
+Para citar el material se utiliza el archivo [CITATION.cff](CITATION.cff). El archivo incluye la URL del repositorio; su versión se actualiza cuando se publica una nueva entrega.
 
 ## Herramientas utilizadas
 
